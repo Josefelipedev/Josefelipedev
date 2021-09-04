@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o José Felipe
-- 🌱 Estou estudando Sistema para Internet- mas focado em back-end.
+- 🌱 Estou estudando Sistema para Internet- mas focado em back-end no momento,um dos meus objetivo e ser um desenvolver fullstack.
  <div>
   <a href="https://github.com/Josefelipedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josefelipedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
