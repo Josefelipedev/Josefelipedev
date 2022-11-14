@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o José Felipe
-- 🌱 Estou estudando Sistema para Internet, mas focado em ser um full-stack  contém várias tecnologias no meu portfólio, um dos meus objetivo e ser um desenvolver fullstack de qualidade.
+- 🌱 Estou estudando Sistema para Internet, mas focado em ser um back-end e conter várias tecnologias no meu portfólio, um dos meus objetivo e ser um desenvolver de qualidade , e também como alguns skill no front-end.
 
 
 - Apenas um estudante que luta para alcançar seus objetivos.
