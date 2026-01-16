@@ -37,14 +37,19 @@ Full-stack developer with a strong focus on back-end development, passionate abo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josefelipedev&theme=dracula" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josefelipedev&theme=dracula" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josefelipedev&theme=dracula" height="150" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josefelipedev&theme=dracula" height="150" alt="languages" />
-  <img src="https://streak-stats.demolab.com/?user=Josefelipedev&theme=dracula&hide_border=false" height="150" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josefelipedev&theme=dracula" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josefelipedev&theme=dracula" height="150" />
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Josefelipedev&color=blueviolet&style=flat-square" />
+</div>
+
+
+
 
 ### 📫 Connect with me
 
