@@ -3,7 +3,7 @@
 Full-stack developer with a strong focus on back-end development, passionate about building modern, scalable solutions.
 
 🎓 **Bachelor's in Internet Systems** – IFC (Brazil)  
-📚 **Systems and Information Technologies Engineering** – Universidade do Algarve (Portugal)  
+📚 **Systems and Information Technologies Engineering** – Universidade do Algarve (Portugal)(PAUSE)  
 🔐 Next: **Cybersecurity** postgrad & **Software Engineering** Master's
 
 ### 💼 What I Do
