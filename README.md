@@ -49,7 +49,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.josefelipedev.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefelipealmeida/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-felipe-almeida-da-silva-a29665210/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josefelipedev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josefelipealmeida/)
 
