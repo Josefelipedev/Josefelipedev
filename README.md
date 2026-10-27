@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Josefelipedev&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefelipedev&theme=dracula&layout=compact&langs_count=8&hide_border=true" height="170" />
+<img src="./profile/stats.svg" height="170" />
+<img src="./profile/top-langs.svg" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=Josefelipedev&theme=dracula&hide_border=true" />
 
